@@ -7,6 +7,7 @@
 - [第三期：中式八球](https://www.bilibili.com/video/BV11waPzJEj8)
 - [第四期：中式斯诺克](https://www.bilibili.com/video/BV1drHzzVEuD)
 - [第五期：中式八球](https://www.bilibili.com/video/BV165nwzVE9j)
+- [第六期：中式斯诺克](https://www.bilibili.com/video/BV1SGngz2Euj)
 
 ### Lab杯比赛
 
