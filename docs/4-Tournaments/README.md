@@ -8,7 +8,11 @@
 
 |       时间      |  轮次  |                    选手A                      |     |                   选手B                      |
 | :-------------: | :---: | :-------------------------------------------: | :-: | :------------------------------------------: |
-|  12月2日  21:00 | 第一轮 |  ![](./img/england.png)马克·塞尔比[11]         | VS |  ![](./img/china.png)雷佩凡                   |
-|  12月2日  21:00 | 第一轮 |  ![](./img/england.png)罗尼·奥沙利文[6]        | VS |  ![](./img/china.png)周跃龙                   |
-|  12月3日  3:00  | 第一轮 |  ![](./img/england.png)凯伦·威尔逊[2]          | VS |  ![](./img/england.png)埃利奥特·斯莱瑟        |
-|  12月3日  3:00  | 第一轮 |  ![](./img/england.png)巴里·霍金斯[14]         | VS |  ![](./img/england.png)大卫·利利              |
+|  12月3日  21:00 | 第二轮 |  ![](./img/wales.png)马克·威廉姆斯             | VS |  ![](./img/china.png)庞俊旭                   |
+|  12月3日  21:00 | 第二轮 |  ![](./img/china.png)吴宜泽                   | VS |  ![](./img/australia.png)尼尔·罗伯逊           |
+|  12月4日  3:00  | 第二轮 |  ![](./img/england.png)贾德·特鲁姆普           | VS |  ![](./img/china.png)斯佳辉                   |
+|  12月4日  3:00  | 第二轮 |  ![](./img/england.png)马克·塞尔比             | VS |  ![](./img/china.png)周跃龙                   |
+|  12月4日  21:00 | 第二轮 |  ![](./img/china.png)张安达                    | VS |  ![](./img/china.png)赵心童                   |
+|  12月4日  21:00 | 第二轮 |  ![](./img/china.png)丁俊晖                   | VS |  ![](./img/scotland.png)斯科特·唐纳森          |
+|  12月5日  3:00  | 第二轮 |  ![](./img/england.png)埃利奥特·斯莱瑟         | VS |  ![](./img/england.png)巴里·霍金斯            |
+|  12月5日  3:00  | 第二轮 |  ![](./img/scotland.png)约翰·希金斯            | VS |  ![](./img/england.png)肖恩·墨菲              |
