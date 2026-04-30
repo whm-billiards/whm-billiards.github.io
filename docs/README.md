@@ -8,11 +8,15 @@
 
 <center><b>Upcoming Matches</b></center>
 
-| 比赛日  |   时间段  |                    选手A                       |                   选手B                        |     轮次      |      阶段     |
-| :-----: | :------: | :--------------------------------------------: | :--------------------------------------------: | :----------: | :----------: |
-| 4月29日 |   17:00  |  ![](./img/scotland.png)约翰·希金斯(3)          |  ![](./img/australia.png)尼尔·罗伯逊(5)         |    1/4决赛    |    第2阶段   |
-| 4月29日 |   17:00  |  ![](./img/north_ireland.png)马克·艾伦(8)       |  ![](./img/england.png)巴里·霍金斯(8)           |    1/4决赛    |    第3阶段   |
-| 4月29日 |   21:30  |  ![](./img/china.png)赵心童(8)                  |  ![](./img/england.png)肖恩·墨菲(8)             |    1/4决赛    |    第3阶段   |
-| 4月29日 |   21:30  |  ![](./img/china.png)吴宜泽(4)                  | ![](./img/iran.png)侯赛因·瓦菲(4)               |    1/4决赛    |    第2阶段   |
-| 4月30日 |   02:00  |  ![](./img/scotland.png)约翰·希金斯(3)          |  ![](./img/australia.png)尼尔·罗伯逊(5)         |    1/4决赛    |    第3阶段   |
-| 4月30日 |   02:00  |  ![](./img/china.png)吴宜泽(4)                  | ![](./img/iran.png)侯赛因·瓦菲(4)               |    1/4决赛    |    第3阶段   |
+| 比赛日  |   时间段  |                            选手A                            |                                 选手B                         |     轮次      |      阶段     |
+| :-----: | :------: | :---------------------------------------------------------: | :----------------------------------------------------------: | :----------: | :----------: |
+| 4月30日 |   20:00  |  ![](./4-Tournaments/img/england.png)肖恩·墨菲(0)            |  ![](./4-Tournaments/img/scotland.png)约翰·希金斯(0)          |    半决赛     |    第1阶段   |
+| 5月1日  |   02:00  |  ![](./4-Tournaments/img/north_ireland.png)马克·艾伦(0)      |  ![](./4-Tournaments/img/china.png)吴宜泽(0)                 |    半决赛     |    第1阶段   |
+|         |          |                                                             |                                                              |              |              |
+| 5月1日  |   17:00  |  ![](./4-Tournaments/img/england.png)肖恩·墨菲(0)            |  ![](./4-Tournaments/img/scotland.png)约翰·希金斯(0)          |    半决赛     |    第2阶段   |
+| 5月1日  |   21:30  |  ![](./4-Tournaments/img/north_ireland.png)马克·艾伦(0)      |  ![](./4-Tournaments/img/china.png)吴宜泽(0)                 |    半决赛     |    第2阶段   |
+| 5月2日  |   02:00  |  ![](./4-Tournaments/img/england.png)肖恩·墨菲(0)            |  ![](./4-Tournaments/img/scotland.png)约翰·希金斯(0)          |    半决赛     |    第3阶段   |
+|         |          |                                                             |                                                              |              |              |
+| 5月2日  |   17:00  |  ![](./4-Tournaments/img/north_ireland.png)马克·艾伦(0)      |  ![](./4-Tournaments/img/china.png)吴宜泽(0)                 |    半决赛    |    第3阶段   |
+| 5月2日  |   21:30  |  ![](./4-Tournaments/img/england.png)肖恩·墨菲(0)            |  ![](./4-Tournaments/img/scotland.png)约翰·希金斯(0)          |    半决赛    |    第4阶段   |
+| 5月3日  |   02:00  |  ![](./4-Tournaments/img/north_ireland.png)马克·艾伦(0)      |  ![](./4-Tournaments/img/china.png)吴宜泽(0)                 |    半决赛    |    第4阶段   |
