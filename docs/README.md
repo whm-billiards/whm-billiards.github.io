@@ -10,6 +10,8 @@
 
 | 比赛日  |   时间段  |                            选手A                            |                                 选手B                         |     轮次      |      阶段     |
 | :-----: | :------: | :---------------------------------------------------------: | :----------------------------------------------------------: | :----------: | :----------: |
-| 5月2日  |   17:00  |  ![](./4-Tournaments/img/north_ireland.png)马克·艾伦(7)      |  ![](./4-Tournaments/img/china.png)吴宜泽(7)                 |    半决赛    |    第3阶段   |
-| 5月2日  |   21:30  |  ![](./4-Tournaments/img/england.png)肖恩·墨菲(11)           |  ![](./4-Tournaments/img/scotland.png)约翰·希金斯(13)         |    半决赛    |    第4阶段   |
-| 5月3日  |   02:00  |  ![](./4-Tournaments/img/north_ireland.png)马克·艾伦(7)      |  ![](./4-Tournaments/img/china.png)吴宜泽(7)                 |    半决赛    |    第4阶段   |
+| 5月3日  |   20:00  |  ![](./4-Tournaments/img/england.png)肖恩·墨菲               |  ![](./4-Tournaments/img/china.png)吴宜泽                     |    决赛      |    第1阶段   |
+| 5月4日  |   02:00  |  ![](./4-Tournaments/img/england.png)肖恩·墨菲               |  ![](./4-Tournaments/img/china.png)吴宜泽                     |    决赛      |    第2阶段   |
+|         |          |                                                              |                                                              |              |              |
+| 5月4日  |   20:00  |  ![](./4-Tournaments/img/england.png)肖恩·墨菲               |  ![](./4-Tournaments/img/china.png)吴宜泽                     |    决赛      |    第3阶段   |
+| 5月5日  |   02:00  |  ![](./4-Tournaments/img/england.png)肖恩·墨菲               |  ![](./4-Tournaments/img/china.png)吴宜泽                     |    决赛      |    第4阶段   |
